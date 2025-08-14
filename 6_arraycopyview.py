@@ -1,5 +1,5 @@
 #copy vs view 
-# copy is actuacl value while view just use for the reflection
+# copy is actcual value while view just use for the reflection
 # copy have own memory while view refelect he changes in the original array
 # Example for the copy
 import numpy as np
